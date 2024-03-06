@@ -1,0 +1,26 @@
+import turtle
+turtle.shape("turtle")
+turtle.color("green")
+turtle.speed(2)
+
+turtle.penup()
+turtle.backward(100)
+turtle.right(90)
+turtle.forward(50)
+turtle.pendown()
+turtle.circle(100)
+
+turtle.penup()
+turtle.right(180)
+turtle.forward(100)
+turtle.right(90)
+turtle.forward(100)
+turtle.pendown()
+turtle.circle(70)
+
+turtle.penup()
+turtle.left(90)
+turtle.forward(140)
+turtle.right(90)
+turtle.pendown()
+turtle.circle(40)
